@@ -1,0 +1,8 @@
+{
+  "name": "StrixOS ZLA V0.0.2",
+  "description": "Streamline your zoo license application with automated document management, statutory checklists, and comprehensive regulatory compliance tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
